@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @krishanu-tito
+- 👋 Hi, I’m @krishanu-tito, and Engineering Manager working for an MNC. I am from India. 
 - 👀 I’m interested in Azure, Microservices, C#, .NET and cloud-native architecture
 - 🌱 I’m currently honing my skilss on Microservices
 - 💞️ I’m looking to collaborate on any .NET, Azure and Microservices based app development
