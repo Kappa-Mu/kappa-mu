@@ -1,4 +1,4 @@
-- 👋 Hi, I am Kappa Mu, an Azure Architect.
+- 👋 Hi, I am kappa mu, an Azure Architect.
 - 👀 I am interested in Azure, Microservices, C#, .NET and cloud-native architecture
 - 🌱 I am currently honing my skilss in Microservices
 - 💞️ I am looking to collaborate on any .NET, Azure and Microservices based app development
